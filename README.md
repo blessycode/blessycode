@@ -11,5 +11,30 @@ I’m **Blessed**, a data scientist and developer with a strong interest in mach
 Want to know more about my work?  
 👉 **[Check out my portfolio](https://blessy-io.vercel.app/)**
 
+<!-- Pinned Repositories -- >
+
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats..." />
+</a>
+
+<br>
+
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
+</a>
+
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
+</a>
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." alt="Braydon's GitHub Stats" />
+</a>
 
 

@@ -23,23 +23,10 @@ I focus on turning data into actionable insights by building **predictive models
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/blessycode/yolov8-car-crash-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blessycode&repo=yolov8-car-crash-detection" />
-  </a>
-  <a href="https://github.com/blessycode/Claxon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blessycode&repo=Claxon" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessycode&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blessycode&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -86,7 +73,7 @@ I focus on turning data into actionable insights by building **predictive models
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
 ![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
-![Stylus](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=stylus&logoColor=white&color=4AB197)
+
 
 </details>
 

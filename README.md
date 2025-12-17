@@ -36,9 +36,11 @@ I focus on turning data into actionable insights by building **predictive models
 ### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![Ionic](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 
 ---
 
@@ -59,7 +61,10 @@ I focus on turning data into actionable insights by building **predictive models
 ---
 
 ### ⚙ Backend, APIs & MLOps
+![Django](https://img.shields.io/badge/API-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+![Flask](https://img.shields.io/badge/API-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=4AB197)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
@@ -73,7 +78,6 @@ I focus on turning data into actionable insights by building **predictive models
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
 ![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
-
 
 </details>
 

@@ -13,28 +13,26 @@ Want to know more about my work?
 
 <!-- Pinned Repositories -- >
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/blessycode/yolov8-car-crash-detection">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats..." />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/blessycode/Claxon">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
 </a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
-</a>
+<
 
 <!-- GitHub Stats -- >
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/blessycode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." alt="Braydon's GitHub Stats" />
+<a href="https://github.com/blessycode">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." alt="Blessed's GitHub Stats" />
 </a>
 
 

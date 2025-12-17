@@ -39,6 +39,18 @@ Want to know more about my work?
 ![Ionic](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ...
+<details>
+<summary><strong>More Skills</strong></summary>
+
+<br>
+
+![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
+![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
+![Stylus](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=stylus&logoColor=white&color=4AB197)
+...
+
+</details>
 
 
 

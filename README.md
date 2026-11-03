@@ -1,4 +1,4 @@
-[![Blessed's GitHub Banner](./assets/BLESSY.png)](https://blessy-io.vercel.app/)
+[![Blessed's GitHub Banner](./assets/BLESSY.png)](https://blessy-dev.vercel.app/)
 
 <p align="center">
   <a href="https://x.com/bless13210">
@@ -19,7 +19,7 @@
 I’m **Blessed**, a data scientist and developer with a strong interest in **machine learning, applied AI, and data-driven systems**.  
 I focus on turning data into actionable insights by building **predictive models, analytics pipelines, and production-ready ML applications**.
 
-👉 **[Check out my portfolio](https://blessy-io.vercel.app/)**
+👉 **[Check out my portfolio](https://blessy-dev.vercel.app/)**
 
 ---
 
